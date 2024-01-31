@@ -14,7 +14,7 @@ An aspiring data analyst with a passion for exploring the world of data and anal
 
 - 🔭 I’m currently working on **Data Cleaning , Data manipulation , visualization , Machine Learning , Deep Learning**
 
-- 🌱 I’m currently learning **Machine Learning , Deeplearning**
+- 🌱 I’m currently learning **Machine Learning , Deep Learning**
 
 - 👯 I’m looking to collaborate on **Business Problems**
 
